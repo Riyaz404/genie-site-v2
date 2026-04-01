@@ -127,7 +127,7 @@ function PropertiesContent() {
               Explore Properties
             </h1>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              Browse through our extensive collection of premium properties across Bangalore
+              Browse through our extensive collection of premium properties across Hyderabad
             </p>
           </motion.div>
         </div>

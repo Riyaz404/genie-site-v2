@@ -38,14 +38,14 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Genie Realty | Premium Real Estate',
-    description: 'Discover your dream property with GreenNest Realty.',
-    images: ['/og-image.jpg'], // same image
+    description: 'Discover your dream property with Genie Realty.',
+    images: ['logo.png'], // same image
   },
 
   icons: {
-    icon: '/logo.png', // 👈 put in public folder
-    shortcut: '/logo.png',
-    apple: '/logo.png',
+    icon: 'logo.png', // 👈 put in public folder
+    shortcut: 'logo.png',
+    apple: 'logo.png',
   },
 }
 

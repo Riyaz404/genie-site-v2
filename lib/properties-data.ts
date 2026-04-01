@@ -43,7 +43,7 @@ export const properties: Property[] = [
       'https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800',
       'https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800'
     ],
-    description: 'Stunning 3BHK apartment with modern amenities, located in the heart of Whitefield. Features premium finishes, spacious balconies, and breathtaking city views.',
+    description: 'Stunning 3BHK apartment with modern amenities, located in the heart of Madhapur. Features premium finishes, spacious balconies, and breathtaking city views.',
     amenities: ['Swimming Pool', 'Gym', 'Clubhouse', 'Children Play Area', '24/7 Security', 'Power Backup'],
     tags: ['featured', 'hot-deal'],
     isRecent: true,

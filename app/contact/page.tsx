@@ -26,8 +26,8 @@ const contactInfo = [
   {
     icon: Mail,
     title: 'Email Us',
-    content: 'info@greennest.com',
-    link: 'mailto:info@greennest.com'
+    content: 'info@genierealty.com',
+    link: 'mailto:info@genierealty.com'
   },
   {
     icon: Clock,

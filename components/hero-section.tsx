@@ -153,19 +153,20 @@ export function HeroSection() {
             className="flex flex-wrap justify-center gap-8 mt-8 text-background/80"
           >
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-primary">500+</div>
+              <div className="text-3xl md:text-4xl font-bold text-primary">1000+</div>
               <div className="text-gray-700">Properties Listed</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-primary">1000+</div>
+              <div className="text-3xl md:text-4xl font-bold text-primary">250+</div>
               <div className="text-gray-700">Happy Customers</div>
             </div>
+            
             <div className="text-center">
               <div className="text-3xl md:text-4xl font-bold text-primary">50+</div>
               <div className="text-gray-700">Expert Agents</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-primary">12+</div>
+              <div className="text-3xl md:text-4xl font-bold text-primary">2+</div>
               <div className="text-gray-700">Years Experience</div>
             </div>
           </motion.div>
